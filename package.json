@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockhain realisation using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBill4/blockchain.git"
+  },
+  "author": "Max Bilyk <datan0612@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBill4/blockchain/issues"
+  },
+  "homepage": "https://github.com/MaxBill4/blockchain#readme"
+}
